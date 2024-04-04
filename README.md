@@ -22,21 +22,19 @@ Two libraries were used to complete this project:
 
 ## keyword-extraction.py
 
-What it does
-&
-How it works (usage)
+Keyword extraction is a technique used in natural language processing (NLP) to automatically identify the most important words or phrases in a text. 
+The Code reads a text file, then filters out common english stopwords and non-and non-alphabetic words, then calculates and prints the top 30 words based on their relative frequency in the document.
 
 ## collocation-analysis.py
 
-What it does
-&
-How it works (usage)
+Collocation analysis in natural language processing identifies pairs or groups of words that often appear together in a given text
+The code analyzes text from a given text file. It indentifies and prints the top 15 signifigant word pairs(bigrams)based on their co-occurrence frequency.
 
 ## sentiment-analysis.py
 
-What it does
-&
-How it works (usage)
+Sentiment analysis is a natural language processing technique that involves analyzing and determining the sentiment or emotion expressed in a piece of text
+The code performs sentiment analysis on text from "textfile.txt", dividing it into 100-word chunks, calculating sentiment scores with VADER lexicon, and plots the sentiment scores to visualize the sentiment trends throughout the text.
+
 
 ## Craig's Zeta analysis
 
