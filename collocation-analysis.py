@@ -34,7 +34,7 @@ def perform_collocation_analysis(file_path):
 
     return top_bigrams
 
-file_path = "TrumpCompareSpeech.txt"
+file_path = "TextFile.txt"
 top_bigrams = perform_collocation_analysis(file_path)
 
 # Print the results to the terminal
