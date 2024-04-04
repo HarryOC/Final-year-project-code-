@@ -8,7 +8,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 #Read the text from the file 
-with open('BarackObama1.txt', 'r') as file:
+with open('textfile.txt', 'r') as file:
     text = file.read()  
 
 #Tokenize the text into words 
