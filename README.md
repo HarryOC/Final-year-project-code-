@@ -20,7 +20,7 @@ Two libraries were used to complete this project:
 
 # Scripts
 
-## Keyword extraction
+## keyword-extraction.py
 
 What it does
 &
@@ -32,7 +32,7 @@ What it does
 &
 How it works (usage)
 
-## Sentiment analysis
+## sentiment-analysis.py
 
 What it does
 &
