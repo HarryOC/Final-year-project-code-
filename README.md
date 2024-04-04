@@ -6,10 +6,64 @@ This repository is contains the code for Harry O'Callaghan's Final-year Project 
 
 The dataset used for this analysis included: 
 
-List
+Inaugural Speeches
+
+1. Harry S. Truman - January 20, 1961: Inaugural Address 
+2. John F.Kennedy - January 20, 1961: Inaugural Address
+3. Ronald Reagan - January 20, 1981: First Inaugural Address
+4. George W. Bush - January 20, 2001: First Inaugural Address
+5. Barack Obama - January 20, 2009: Inaugural Address
+6. Donald Trump - January 20, 2017: Inaugural Address
+
+Comparision Speeches
+
+1. Harry S. Truman - March 12, 1947: Truman Doctrine
+2. George W. Bush - November 6, 2003: Remarks on Freedom in Iraq and Middle East
+3. John F. Kennedy - October 22, 1962: Address on the Buildup of Arms in Cuba
+4. Barack Obama - March 22, 2016: Remarks to the People of Cuba
+5. Ronald Reagan - September 14, 1986: Speech to the Nation on the Campaign Against Drug Abuse
+6. Donald Trump - March 19, 2018: Remarks on Combating the Opioid Crisis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 These files were extracted from:
-Link to dataset
+https://www.kaggle.com/datasets/kboghe/presidentialspeeches/data?select=1presidential_speeches_with_metadata.xlsx
 
 # Libraries
 
