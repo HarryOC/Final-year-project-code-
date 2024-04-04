@@ -26,7 +26,7 @@ What it does
 &
 How it works (usage)
 
-## Collocation analysis
+## collocation-analysis.py
 
 What it does
 &
